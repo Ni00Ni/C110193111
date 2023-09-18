@@ -28,14 +28,14 @@ Strikethroungh uses two tildes ~~Scratch this~~.
 ---
 python code
 ```python 
-s='python highlighting text'
-print(s)|
+1. s='python highlighting text'
+2. print(s)|
 ```
 ---
 javascript code
 ```javascript 
-var s ="JavaScript syntax hihhlighting";
-alert(s);
+1. var s ="JavaScript syntax hihhlighting";
+2. alert(s);
 ```
 ---
 Colons carbe used to align columns.
