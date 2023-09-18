@@ -28,13 +28,13 @@ Strikethroungh uses two tildes ~~Scratch this~~.
 ---
 python code
 ```python 
-1. >>s='python highlighting text'
-2. >>print(s)|
+> 1. s='python highlighting text'
+> 2. print(s)|
 ```
 ---
 javascript code
 ```javascript 
-1. >>var s ="JavaScript syntax hihhlighting";
-2. >>alert(s);
+> 1. var s ="JavaScript syntax hihhlighting";
+> 2. alert(s);
 ```
 
