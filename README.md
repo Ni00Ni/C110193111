@@ -51,6 +51,6 @@ raw Markdown line up prettily.You can also use inline Markdown.
 
 | Markdown | Less | Pretty |
 | :----- | :----- | :---- | 
-| *Still* | renders | **nicely** |
+| *Still* | `renders` | **nicely** |
 | 1 | 2 | 3 |
 
