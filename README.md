@@ -24,3 +24,13 @@
 - [ ] todo list
 - [ ] 2nd things  
 ---
+```python code
+s='python highlighting text'
+print(s)|
+```
+---
+```javascript code
+var s ="JavaScript syntax hihhlighting";
+alert(s);
+```
+
