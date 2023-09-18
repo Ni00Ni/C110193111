@@ -26,12 +26,14 @@ Strikethroungh uses two tildes ~~Scratch this~~.
 - [ ] todo list
 - [ ] 2nd things  
 ---
-```python code
+python code
+```python 
 s='python highlighting text'
 print(s)|
 ```
 ---
-```javascript code
+javascript code
+```javascript 
 var s ="JavaScript syntax hihhlighting";
 alert(s);
 ```
