@@ -10,13 +10,13 @@
 ###### Combined emphasis with **asterisks** **or** ***underscores***.
 ###### Strikethroungh uses two tildes ~~Scratch this~~.
 ---
--　First ordered list item
--　Another item
+1. First ordered list item
+2. Another item
   --*Unordered sub-list.
--　Actual numbers don't matter,just that it's a number
+3. Actual numbers don't matter,just that it's a number
   -- - Ordered sub-liat
   ... - 2nd
--　And another item
+4. And another item
   ...*note 1
   ...*note 2
   ***note 3
